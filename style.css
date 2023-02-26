@@ -1,0 +1,262 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+body{
+    background-color: #e5e5e5;
+    width: 100%;  
+}
+.mainc{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.topbar{
+    width:100%;
+    margin-bottom: 20px;
+}
+.heading-luxury{
+    font-family: old standard tt;
+    font-weight: 700;
+    font-size: 30px;
+    color: #2B2024;    
+}
+.para-home{
+    font-family: old standard tt;
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+}
+.para-home2{
+    margin-left: 425px;
+}
+.button{
+    background-color: #523C1E;
+    border-width: 0;
+    width: 150px;
+    height: 45px;
+    font-family: old standard tt;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 6px;
+}
+.contactbtn{
+    color:#FAF7F0;
+}
+.aboutus{
+    font-size: 16px;
+    margin-right: 8px;
+}
+#carouselExampleSlidesOnly{
+    width: 100%;
+    height: auto;
+}
+.heading-category{
+    font-family: old standard tt;
+    color: #2B2024;
+    font-weight: 400;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 40px;
+    width: inherit;
+}
+.cat{
+    width: 100%;
+}
+.types{
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.type{
+    width: 20%;
+}
+.typename{
+    color: #000000;
+    font-size: 22px;
+    font-family: br cobane;
+    text-align: center;
+    font-weight: 400;
+}
+.line{
+    height: 5px;
+    background-color: #F8F4EA;
+}
+.line2{
+    background-color: #523C1E;
+}
+.rings{
+    width: 100%;
+    justify-content: space-between;
+}
+.ring{
+    width: 32%;
+}
+.ringname{
+    font-family: old standard tt;
+    font-size: 35px;
+    text-align: left;
+    font-weight: 700;
+}
+.ringprice{
+    font-family: heebo;
+    font-size: 26px;
+    text-align: left;
+    font-weight: 400;
+}
+.ringimg{
+    height: 250px;
+}
+.ourservices{
+    font-family: old standard tt;
+    font-weight: 400;
+    font-size: 50px;
+    color: #2B2024;
+    text-align: left;
+    margin-top: 25px;
+}
+.services{
+    width: 100%;
+}
+.service13{
+    height: 435px;
+}
+.serimg13{
+    width: 45%;
+}
+.serimg2{
+    width: 45%;
+}
+.servicename{
+    font-weight: 700;
+    font-size: 40px;
+    font-family: old standard tt;
+    color: #2B2024;
+}
+.servicedesc{
+    font-family: heebo;
+    font-weight: 400;
+    font-size: 22px;
+    color: #2B202499;
+}
+.servicetext{
+    padding: 25px;
+}
+.nolimits{
+    width: 100%;
+    height: 485px;
+    margin-top: 120px;
+}
+.nolimitsimg{
+    width: 45%;
+    background-color: #2B2024;
+}
+.nolimitstext{
+    background-color: #2B2024;
+    padding: 40px;
+    padding-top: 60px;
+}
+.nolimitshead{
+    font-family: old standard tt;
+    font-weight: 700;
+    font-size: 45px;
+    color: #FAF7F0;
+}
+.nolimitsdesc{
+    font-family: heebo;
+    color: #FAF7F0;
+    font-weight: 400;
+    font-size: 22px;
+}
+.nobutton{
+    width: 220px;
+    height: 45px;
+    color: #2B2024;
+    background-color: #FAF7F0;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: old standard tt;
+}
+.contactinsta{
+    color: #2B2024;
+    font-family: old standard tt;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 120px;
+}
+.foursmall{
+    justify-content: space-between;
+}
+.smallimg{
+    height: 240px;
+}
+.fourimgs{
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+.bigimg{
+    width: 450px;
+    height: 485px;
+}
+.instabtn{
+    text-align: center;
+    margin-top: 45px;
+}
+.aboutushead{
+    font-family: old standard tt;
+    font-weight: 400;
+    font-size: 48px;
+    color: #2B2024;
+    margin-top: 120px;
+}
+.aboutussec{
+    width: 100%;
+    height: 575px
+}
+.aboutuspara{
+    font-family: heebo;
+    font-weight: 400;
+    font-size: 22px;
+    margin-top: 20px;
+    color: #2B2024BF;
+}
+.aboutuspara2{
+    margin-bottom: 10px;
+}
+.aboutusdesc{
+    margin-left: 50px;
+}
+.socialimgs1{
+    margin-top: 40px;
+}
+.contactus{
+    margin-top: 50px;
+}
+.lastdiv{
+    width: 100%;
+    justify-content: space-between;
+    height: 250px;
+    margin-top: 200px;
+}
+.lastsptimg{
+    width: 20px;
+    height: 15px;
+    margin-top: 6px;
+    margin-right: 5px;
+}
+.lastlux{
+    justify-content: space-between;
+}
+.lastabt{
+    justify-content: space-between;
+}
+.lastspt{
+    justify-content: space-between;
+}
+.lastsptcd{
+    margin-top: 15px;
+}
